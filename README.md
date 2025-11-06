@@ -9,7 +9,7 @@ This repository is for **feedback, bug reports, and feature requests** for the *
 
 ---
 
-## Search Tips (Important)
+## Search Tips
 Use these operators to get precise results inside the extension:
 
 - **Space = AND**  
