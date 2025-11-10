@@ -1,6 +1,6 @@
-# YouTube Comment Suite — Issue Tracker
+# YouTube Comment Kit — Issue Tracker
 
-This repository is for **feedback, bug reports, and feature requests** for the **YouTube Comment Suite** extension.
+This repository is for **feedback, bug reports, and feature requests** for the **YouTube Comment Kit** extension.
 
 **Features:**  
 - Timed comments  
@@ -60,4 +60,4 @@ Source code is **not** included; this repository is only for issue tracking.
 ---
 
 ## Thanks
-Your reports directly help improve **YouTube Comment Suite**.
+Your reports directly help improve **YouTube Comment Kit**.
