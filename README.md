@@ -4,25 +4,7 @@ This repository is for **feedback, bug reports, and feature requests** for the *
 
 **Features:**  
 - Timed comments  
-- Advanced search  
-- Top comments  
-
----
-
-## Search Tips
-Use these operators to get precise results inside the extension:
-
-- **Space = AND**  
-  All terms must appear.  
-  Example: `apple banana` → finds comments containing *both* words.
-
-- **Pipe `|` = OR**  
-  At least one term must appear.  
-  Example: `apple|banana` → finds comments containing *either* word.
-
-- **Quotes = Exact phrase**  
-  Matches the phrase exactly.  
-  Example: `"apple banana"` → finds comments containing that exact phrase.
+- Advanced search
 
 ---
 
