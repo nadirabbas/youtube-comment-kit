@@ -1,7 +1,10 @@
->[!TIP]
->Star this repository to show your support ❤️
+
+> [!TIP]
+> Star this repository to show your support ❤️
+
 
 # YouTube Comment Kit — Issue Tracker
+[**🚀 Report a problem**](https://github.com/nadirabbas/youtube-comment-kit/issues/new/choose)
 
 This repository is for **feedback, bug reports, and feature requests** for the **YouTube Comment Kit** extension.
 
