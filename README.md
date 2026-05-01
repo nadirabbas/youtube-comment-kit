@@ -1,5 +1,5 @@
 [!TIP]
-Star this repository to show your support and keep track of upcoming features!
+Star this repository to show your support ❤️
 
 # YouTube Comment Kit — Issue Tracker
 
