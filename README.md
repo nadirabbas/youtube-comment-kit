@@ -5,12 +5,6 @@
 
 This repository is for **feedback, bug reports, and feature requests** for the **YouTube Comment Kit** extension.
 
-**Features:**  
-- Timed comments  
-- Advanced search
-
----
-
 ## Purpose
 Use this repo to:  
 - Report bugs  
