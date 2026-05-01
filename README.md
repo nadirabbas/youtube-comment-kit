@@ -1,3 +1,6 @@
+[!TIP]
+Star this repository to show your support and keep track of upcoming features!
+
 # YouTube Comment Kit — Issue Tracker
 
 This repository is for **feedback, bug reports, and feature requests** for the **YouTube Comment Kit** extension.
